@@ -30,3 +30,26 @@ A simple and interactive Pokémon gallery with a slider effect that allows users
 1. Clone the repository:
    ```sh
    git clone https://github.com/Shivam0400/pokemon_gallery.git
+2. Navigate to the project folder:
+   cd pokemon_gallery
+3. Open the index.html file in your browser.
+   
+## 🛠️ Customization
+You can modify the Pokémon images in the images folder.
+Adjust the transition speed in script.js.
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to fork the repository and submit a pull request with improvements.
+
+## 📜 License
+This project is licensed under the MIT License.
+
+⭐ If you like this project, don't forget to star the repository!
+
+### Key Points:
+✔ **Live Demo Link**  
+✔ **Features List**  
+✔ **Technologies Used**  
+✔ **Installation & Customization Guide**  
+✔ **Contribution & License Section**  
+
