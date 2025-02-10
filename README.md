@@ -23,7 +23,7 @@ A simple and interactive Pokémon gallery with a slider effect that allows users
 
 ## 📸 Screenshots
 
-![Pokemon Slider Gallery][pokemon_slider_screenshot.png) 
+![Pokemon Slider Gallery](pokemon_slider_screenshot.png) 
 
 ## 📂 Installation & Usage
 
